@@ -226,3 +226,6 @@ outputs/outputs/
 llama3.2-lora-final/
 *.dat
 *.zip
+outputs/**
+wandb/**
+unsloth_compiled_cache/**
